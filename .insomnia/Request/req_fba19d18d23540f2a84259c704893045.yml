@@ -1,0 +1,26 @@
+_id: req_fba19d18d23540f2a84259c704893045
+type: Request
+parentId: fld_5e223ccf41104b87852973265404a653
+modified: 1651834434309
+created: 1650504791515
+url: localhost:9302/order/app/cancelOrder/6461784619033518080
+name: app订单退款撤销
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_8551e258727d42559199d57296858b0e
+authentication: {}
+metaSortKey: -1650510108427
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,26 @@
+_id: req_c29d534e8177428d981bbd09dd41d15b
+type: Request
+parentId: fld_5e223ccf41104b87852973265404a653
+modified: 1651834129049
+created: 1650330440486
+url: localhost:9302/order/app/confirmOrder/63273967759633364
+name: app确认订单
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_8e962ce6871341bbbb544bfb2c347963
+authentication: {}
+metaSortKey: -1650510108527
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_933bc3d5508942ef9065487fd44d6951
+type: Request
+parentId: fld_5e223ccf41104b87852973265404a653
+modified: 1650510140249
+created: 1649316843950
+url: localhost:9302/refundOrder/list
+name: 退款订单列表
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_96ae98aaf8e04ffb924ed691c4466dae
+    name: orderId
+    value: "32"
+    description: ""
+  - id: pair_3df7ff67429c406f88c791aeddcc9d58
+    name: start
+    value: 2022-04-07 11:11:11
+    description: ""
+  - id: pair_f554ceba72ca49b1a7aacedc4a82e60f
+    name: end
+    value: 2022-04-08 11:11:11
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1650510108177
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

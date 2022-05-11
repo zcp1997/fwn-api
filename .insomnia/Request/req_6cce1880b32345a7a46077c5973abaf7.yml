@@ -1,0 +1,33 @@
+_id: req_6cce1880b32345a7a46077c5973abaf7
+type: Request
+parentId: fld_5e223ccf41104b87852973265404a653
+modified: 1652172640788
+created: 1649920940101
+url: localhost:9302/order/app/createOrder
+name: app创建订单
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"goodsId":"6336839210024427520",
+    	"goodsName":"大大大套餐服务",
+    	"goodsPrice":0.1,
+    	"discount":0,
+    	"price":0.1
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_b2d5f726c5f14a11a176e7d2e15110b8
+authentication: {}
+metaSortKey: -1650510108477
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

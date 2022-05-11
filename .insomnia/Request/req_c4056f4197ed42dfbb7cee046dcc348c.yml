@@ -1,0 +1,26 @@
+_id: req_c4056f4197ed42dfbb7cee046dcc348c
+type: Request
+parentId: fld_5e223ccf41104b87852973265404a653
+modified: 1652252632645
+created: 1649752331884
+url: localhost:9302/order/app/6478851719557513229
+name: app订单
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: Authorization
+    value: Bearer
+      eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX2tleSI6IjljZDAwYWJlLTE2MGItNGU3MS1hYzc4LThhZmY2ZGM2ZjA3YSIsInVzZXJuYW1lIjoiYWRtaW4ifQ.myhQTiB0D-QaUMZeGBzW06YYSPjZV2jTKDjEJmELWAnKATUmiVBMst7l8XrVNzV_tkyEPmmcQR3U_FAYXPeprA
+    id: pair_ae75b8aad98d45259ae1dfc3152b4652
+authentication:
+  type: bearer
+metaSortKey: -1650510108377
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

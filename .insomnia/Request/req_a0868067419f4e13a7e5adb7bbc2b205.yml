@@ -1,0 +1,27 @@
+_id: req_a0868067419f4e13a7e5adb7bbc2b205
+type: Request
+parentId: fld_5e223ccf41104b87852973265404a653
+modified: 1650616138095
+created: 1650592269150
+url: localhost:9302/order/app/refundReasons
+name: app退款原因
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: Authorization
+    value: Bearer
+      eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX2tleSI6ImM1YzQwYmQ0LTc1NzktNGMxYi04MzJkLTIzMGU4M2U2NzgzNSIsInVzZXJuYW1lIjoiYWRtaW4ifQ.iqxQfHtBsl5gm0Os-knIilV005OhXKKdZ4sq8A_zMSbDG1yLb4FL5TsV5DI_qZCp-9FW_1zDvg1KVuc2lgx9Aw
+authentication:
+  type: bearer
+  prefix: Bearer
+  token: eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX2tleSI6ImM1YzQwYmQ0LTc1NzktNGMxYi04MzJkLTIzMGU4M2U2NzgzNSIsInVzZXJuYW1lIjoiYWRtaW4ifQ.iqxQfHtBsl5gm0Os-knIilV005OhXKKdZ4sq8A_zMSbDG1yLb4FL5TsV5DI_qZCp-9FW_1zDvg1KVuc2lgx9Aw
+metaSortKey: -1650510108189.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

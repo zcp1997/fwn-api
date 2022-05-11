@@ -1,0 +1,27 @@
+_id: req_a41e627bb8844bbdaf7aba11462abfaa
+type: Request
+parentId: fld_79ef3568f9c44c35bc83f1d93aab1f95
+modified: 1650693869978
+created: 1648455037472
+url: localhost:9302/fixedGoodsManage/6336839210024427526
+name: pc组合商品id查询
+description: ios端
+method: GET
+body: {}
+parameters: []
+headers:
+  - name: Authorization
+    value: Bearer
+      eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX2tleSI6IjVlZTFjMTA3LTEzZTctNGI2Yi1hOTgzLTFhMGYxZjkxZjIwMCIsInVzZXJuYW1lIjoiYWRtaW4ifQ.OdgpGXKso5v4EF5Khiy0RIEdYmkB_CFu6gKv0DGdfSLw7OJrmiN3bxG1stjbb9d8qqgbx-5Jo25QlYOJbuH_FA
+  - name: Cookie
+    value: Admin-Token=eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX2tleSI6IjVlZTFjMTA3LTEzZTctNGI2Yi1hOTgzLTFhMGYxZjkxZjIwMCIsInVzZXJuYW1lIjoiYWRtaW4ifQ.OdgpGXKso5v4EF5Khiy0RIEdYmkB_CFu6gKv0DGdfSLw7OJrmiN3bxG1stjbb9d8qqgbx-5Jo25QlYOJbuH_FA;
+      JSESSIONID=C7E682C85857B961B8C2976AABCFEC06
+authentication: {}
+metaSortKey: -1650510143283.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: false
+settingFollowRedirects: global

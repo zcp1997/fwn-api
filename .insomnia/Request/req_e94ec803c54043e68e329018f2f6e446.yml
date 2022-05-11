@@ -1,0 +1,29 @@
+_id: req_e94ec803c54043e68e329018f2f6e446
+type: Request
+parentId: fld_5e223ccf41104b87852973265404a653
+modified: 1651915988793
+created: 1649210902140
+url: localhost:9302/normalOrder/list
+name: B端正常订单详情
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_4a3d2e6cc23e4153a1205209b175c774
+    name: userName
+    value: 一号测试机
+    description: ""
+headers:
+  - id: pair_b090624ed4154a0c9448849557cae81e
+    name: userName
+    value: 一号机器人234
+    description: ""
+authentication: {}
+metaSortKey: -1650510108227
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

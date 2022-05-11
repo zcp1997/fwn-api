@@ -1,0 +1,25 @@
+_id: req_462979cacd9b4105a22c557d28232e89
+type: Request
+parentId: fld_5e223ccf41104b87852973265404a653
+modified: 1650510137746
+created: 1650359282798
+url: localhost:9302/pay/common/refund
+name: 退款
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_d03996f3b6fe479ea11f292723a6dccd
+    name: payId
+    value: "2"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1650510108327
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

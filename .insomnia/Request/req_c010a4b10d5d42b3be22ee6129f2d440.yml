@@ -1,0 +1,30 @@
+_id: req_c010a4b10d5d42b3be22ee6129f2d440
+type: Request
+parentId: fld_5e223ccf41104b87852973265404a653
+modified: 1651834128731
+created: 1650357717552
+url: http://s5130827w5.zicp.vip/house/order/app/payBack/2
+name: app回调
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	
+    	
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2a3ff053fbe3403abdbcbec294e2aa5b
+authentication: {}
+metaSortKey: -1650510108502
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

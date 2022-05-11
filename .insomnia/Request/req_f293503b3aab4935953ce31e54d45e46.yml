@@ -1,0 +1,29 @@
+_id: req_f293503b3aab4935953ce31e54d45e46
+type: Request
+parentId: fld_54a621e815d44f769d4d21846dbbcc8b
+modified: 1652238264091
+created: 1651714824822
+url: localhost:9302/advisor/matchingOnShelfHouses/6431467303882612742
+name: b端去配房-已上架房源
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"purpose": "107"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_8ea8de3b0f9e41a6b390af87cd360e38
+authentication: {}
+metaSortKey: -1650531465003.8594
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

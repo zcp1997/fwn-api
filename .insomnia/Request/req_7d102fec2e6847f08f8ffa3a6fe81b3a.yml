@@ -1,0 +1,29 @@
+_id: req_7d102fec2e6847f08f8ffa3a6fe81b3a
+type: Request
+parentId: fld_54a621e815d44f769d4d21846dbbcc8b
+modified: 1652172451746
+created: 1650934955150
+url: localhost:9302/service/get
+name: b端详情
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_a6d1e970e95d4d99bf30b33eef3ff698
+    name: id
+    value: "6476610021506547713"
+    description: ""
+  - id: pair_f0399e0f5cfb488c99bafcea88e1305f
+    name: category
+    value: "210"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1650680715998.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

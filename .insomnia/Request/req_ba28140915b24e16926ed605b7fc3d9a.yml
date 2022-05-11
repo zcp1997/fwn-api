@@ -1,0 +1,38 @@
+_id: req_ba28140915b24e16926ed605b7fc3d9a
+type: Request
+parentId: fld_79ef3568f9c44c35bc83f1d93aab1f95
+modified: 1651644761841
+created: 1648519770645
+url: localhost:9302/goodsManage/app/6342309383452049425
+name: app组合商品列表
+description: ios端
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters:
+  - id: pair_095843187d3741e1b68ed29b8ff362c8
+    name: category
+    value: "204"
+    description: ""
+headers:
+  - name: Authorization
+    value: Bearer
+      eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX2tleSI6IjVlZTFjMTA3LTEzZTctNGI2Yi1hOTgzLTFhMGYxZjkxZjIwMCIsInVzZXJuYW1lIjoiYWRtaW4ifQ.OdgpGXKso5v4EF5Khiy0RIEdYmkB_CFu6gKv0DGdfSLw7OJrmiN3bxG1stjbb9d8qqgbx-5Jo25QlYOJbuH_FA
+    id: pair_c57db4a313894f31a77a03f524542aa0
+  - name: Cookie
+    value: Admin-Token=eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX2tleSI6IjVlZTFjMTA3LTEzZTctNGI2Yi1hOTgzLTFhMGYxZjkxZjIwMCIsInVzZXJuYW1lIjoiYWRtaW4ifQ.OdgpGXKso5v4EF5Khiy0RIEdYmkB_CFu6gKv0DGdfSLw7OJrmiN3bxG1stjbb9d8qqgbx-5Jo25QlYOJbuH_FA;
+      JSESSIONID=C7E682C85857B961B8C2976AABCFEC06
+    id: pair_2b2c0c3c0b8d402489c7519b98437d59
+  - name: Content-Type
+    value: application/json
+    id: pair_211eb483ae01422cbb26f4e3ef44cc1e
+authentication: {}
+metaSortKey: -1650510143408.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: false
+settingFollowRedirects: global

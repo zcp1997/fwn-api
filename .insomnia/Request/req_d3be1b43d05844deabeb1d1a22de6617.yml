@@ -1,0 +1,31 @@
+_id: req_d3be1b43d05844deabeb1d1a22de6617
+type: Request
+parentId: fld_54a621e815d44f769d4d21846dbbcc8b
+modified: 1651747210083
+created: 1651654184553
+url: localhost:9302/advisor/app/myAdvisor
+name: app推荐的房子
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_60b53639bba74c6384b62c5ce7c3fece
+    name: Authorization
+    value: Bearer
+      eyJhbGciOiJIUzUxMiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VyX2tleSI6IjljZDAwYWJlLTE2MGItNGU3MS1hYzc4LThhZmY2ZGM2ZjA3YSIsInVzZXJuYW1lIjoiYWRtaW4ifQ.myhQTiB0D-QaUMZeGBzW06YYSPjZV2jTKDjEJmELWAnKATUmiVBMst7l8XrVNzV_tkyEPmmcQR3U_FAYXPeprA
+    description: ""
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: ""
+  password: ""
+metaSortKey: -1650851288588
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,81 @@
+_id: req_1d8e4b3ddf144d04971879d925b8a715
+type: Request
+parentId: wrk_4cf833fa30754d5396d24b41bcc2953d
+modified: 1652260419068
+created: 1652259705724
+url: https://glados.rocks/api/user/checkin
+name: 签到
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"token":"glados.network"}'
+parameters:
+  - id: pair_bb7dbb8f66f0494b94b233af3b3fdaec
+    name: ""
+    value: ""
+    description: ""
+headers:
+  - id: pair_4765d3947f9145c3892c01fa66f6424f
+    name: cookie
+    value: koa:sess=eyJ1c2VySWQiOjExMzI3MywiX2V4cGlyZSI6MTY3MzM5NzkyNTUzMSwiX21heEFnZSI6MjU5MjAwMDAwMDB9;
+      koa:sess.sig=2nUmvCVLhT2y6tyMuwyF9dkGfyA
+    description: ""
+  - id: pair_9346ae8be31b40deac62df1ba752f484
+    name: referer
+    value: https://glados.rocks/console/checkin
+    description: ""
+    disabled: true
+  - id: pair_300b37954d2a43038aefd7286bce03fd
+    name: origin
+    value: https://glados.rocks
+    description: ""
+    disabled: false
+  - id: pair_24703842bcf643fb803ded80eee508a2
+    name: user-agent
+    value: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like
+      Gecko) Chrome/101.0.4951.54 Safari/537.36 Edg/101.0.1210.39
+    description: ""
+    disabled: false
+  - id: pair_881eb22da70847d0ad648072406b5ad4
+    name: content-type
+    value: application/json;charset=UTF-8
+    description: ""
+    disabled: false
+  - id: pair_1613452bcb3143e89ea46825feaf816f
+    name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="101", "Microsoft Edge";v="101"'
+    description: ""
+  - id: pair_2145d3d56a614c8ba6b2726a2f01bb26
+    name: sec-ch-ua-mobile
+    value: ?0
+    description: ""
+  - id: pair_43b1e2856e1e4ef8b3cb1522c335cb07
+    name: sec-ch-ua-platform
+    value: '"Windows"'
+    description: ""
+  - id: pair_4d7ee351013e49b9a748045b1f7626f4
+    name: sec-fetch-dest
+    value: empty
+    description: ""
+  - id: pair_84e20ae3032f40eaa3503ea783497569
+    name: sec-fetch-mode
+    value: cors
+    description: ""
+  - id: pair_ac025ef72bd64d8593c6f07913973f3a
+    name: sec-fetch-site
+    value: same-origin
+    description: ""
+  - id: pair_4489732f63d54d02a1710ce3a5470b9b
+    name: sec-fetch-user
+    value: "1"
+    description: ""
+authentication: {}
+metaSortKey: -1650510108355.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

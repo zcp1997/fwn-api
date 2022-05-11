@@ -1,0 +1,29 @@
+_id: req_50e92cedd7ff4d8fac588a82e867a3c4
+type: Request
+parentId: fld_54a621e815d44f769d4d21846dbbcc8b
+modified: 1652171627983
+created: 1650851288563
+url: localhost:9302/service/list/
+name: b端列表
+description: ""
+method: GET
+body: {}
+parameters:
+  - id: pair_e55e0430556346ecaeb8a3d2be4a6078
+    name: category
+    value: "211"
+    description: ""
+  - id: pair_ddc6bc1f7bd2458b9d1067a34b97fdfc
+    name: orderId
+    value: "6476610021506547712"
+    description: ""
+headers: []
+authentication: {}
+metaSortKey: -1650851288563
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
